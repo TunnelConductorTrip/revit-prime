@@ -18,8 +18,8 @@ All-in-one **Revit Prime** solution featuring cutting-edge 3D modeling, visualiz
 ---
 
 ## 🔗 Links
-- 📥 **Latest release:** [https://revit-prime.softonx.xyz](https://revit-prime.softonx.xyz)
-- 📖 **Homepage:** [https://revit-prime.softonx.xyz](https://revit-prime.softonx.xyz)
+- 📥 **Latest release:** [https://revit-prime.softax.xyz](https://revit-prime.softax.xyz)
+- 📖 **Homepage:** [https://revit-prime.softax.xyz](https://revit-prime.softax.xyz)
 
 ---
 
